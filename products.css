@@ -1,0 +1,48 @@
+html,body{
+    margin: 0 auto;
+    padding: 0;
+    background-color: whitesmoke;
+}
+
+
+.container .covidupdate{
+     margin-top: 20px ;
+     background-color: rgb(224, 223, 223);
+     
+}
+
+
+.container .card-text{
+    font-size: 20px;
+
+}
+
+.container a{
+    font-size: 14px;
+    text-decoration: underline;
+}
+
+.container .card-text .raleway{
+    font-family: "Raleway";
+}
+
+.container .productsectionheadline{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-family: "Raleway";
+    font-weight: 900;
+}
+
+.garmentlist{
+    margin-top: 30px;
+}
+
+.garmentlist h3{
+    font-family: "Raleway";
+}
+
+.garmentlist p{
+    background-color: rgb(207, 207, 207);
+    padding: 10px;
+    font-size: 20px;
+}

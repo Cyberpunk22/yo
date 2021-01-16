@@ -1,0 +1,48 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(252, 252, 252);
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.container .serviceheading {
+    margin-top: 60px;
+    margin-bottom: 50px;
+}
+
+.container .serviceheading{
+    font-family: "Raleway";  
+}
+
+.container .servicelist{
+    margin-bottom: 20px;
+}
+
+.container .servicelist p{
+    background-color: rgb(201, 201, 201);
+    padding: 10px;
+    border-radius: 5px;
+
+}
+
+
+.container .card-body{
+    margin-bottom: 60px;
+   
+}
+
+.container .card-text{
+    font-family: "Raleway";
+    font-weight: 800;
+}
+
+.container .row img {
+    width: 330px;
+    height: 300px;
+}
+

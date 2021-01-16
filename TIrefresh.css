@@ -1,0 +1,44 @@
+html,body{
+    margin: 0 auto;
+    padding: 0;
+}
+
+
+.carousel-inner > .carousel-item > img {
+    height: 70vh;
+  }
+
+.mao{
+      background-color: #052c47;
+  }
+
+.navbar-brand{
+    font-size: 1.7rem;
+}
+
+.carousel-inner .carousel-item .carousel-caption {
+    background-color: #052c47;
+    height: 115px;
+    font-size: 45px;
+    color: whitesmoke;
+}
+
+.containerworldmap{
+    background-image: url(./images/world-map1copy.jpg);
+    position: absolute;
+    height: 500px;
+    background-repeat: no-repeat;
+    z-index: -5;
+    margin: 0 auto;
+}
+
+
+.office img{
+    width: 2.7rem;
+    height: 2rem;
+}
+
+.office{
+    background-color: #052c47;
+    color: white;
+}
