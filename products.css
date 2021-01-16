@@ -46,3 +46,12 @@ html,body{
     padding: 10px;
     font-size: 20px;
 }
+
+.aimquote{
+    font-size: 25px;
+    margin-top: 50px;
+    margin-bottom: 90px;
+    font-family:  "Raleway";
+    font-style: italic;
+    
+}
