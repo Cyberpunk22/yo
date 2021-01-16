@@ -93,6 +93,10 @@ html,body{
      .containermap{
          height: 170vh;
      }
+
+     .containermap .greycolor h1{
+         font-size: 15px;
+     }
 }
 
 
